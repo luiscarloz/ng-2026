@@ -19,8 +19,8 @@ export default function Lotes() {
         data-einscricao-receipt-url="https://recibo.e-inscricao.tech"
         data-einscricao-api-participants-url="https://participants.e-inscricao.com"
         className="absolute cursor-pointer bg-transparent border-none outline-none
-          inset-0 w-full h-full
-          md:inset-auto md:top-[18%] md:left-[12%] md:w-[38%] md:h-[42%]"
+          top-[3%] left-[15%] w-[70%] h-[20%]
+          md:top-[18%] md:left-[12%] md:w-[38%] md:h-[42%]"
         aria-label="Comprar Lote 01"
       />
     </section>
