@@ -19,7 +19,7 @@ export default function Hero() {
         data-einscricao-receipt-url="https://recibo.e-inscricao.tech"
         data-einscricao-api-participants-url="https://participants.e-inscricao.com"
         className="absolute cursor-pointer bg-transparent border-none outline-none
-          top-[72%] left-[18%] w-[50%] h-[7%]
+          top-[62%] left-[12%] w-[72%] h-[8%]
           md:top-[62%] md:left-[3%] md:w-[38%] md:h-[20%]"
         aria-label="Garanta sua vaga"
       />
