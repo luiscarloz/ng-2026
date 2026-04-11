@@ -15,9 +15,9 @@ export default function Lotes() {
       />
       <SafeButton
         className="absolute cursor-pointer bg-transparent border-none outline-none
-          top-[3%] left-[15%] w-[70%] h-[20%]
-          md:top-[18%] md:left-[12%] md:w-[38%] md:h-[42%]"
-        ariaLabel="Comprar Lote 01"
+          top-[26%] left-[15%] w-[70%] h-[20%]
+          md:top-[18%] md:left-[50%] md:w-[38%] md:h-[42%]"
+        ariaLabel="Comprar Lote 02"
       />
     </section>
   );
